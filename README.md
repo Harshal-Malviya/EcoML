@@ -9,7 +9,7 @@
 
 Every time you run a Jupyter cell, EcoML automatically:
 
-✔ Monitors CPU and GPU utilization in real time 
+✔ Monitors CPU and GPU utilization in real time .
 ✔ Estimates energy (kWh) & CO₂ (grams)  
 ✔ Gives an *Eco Score (0-100)*  
 ✔ Provides recommendations for resource-efficient model training 
